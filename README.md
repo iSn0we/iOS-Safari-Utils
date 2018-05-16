@@ -8,3 +8,5 @@ Communication between multiple Devices using Safari and a local file hosting. mo
 # JavaScript Playground
 
 A nice little input field based javascript execution playground. actually written in a damn easy way.
+
+Watch out for some other cool stuff appearing here.
