@@ -1,0 +1,28 @@
+<html>
+  <head>
+  </head>
+  <body>
+  
+  
+  
+  
+  
+  <input type="text" id="myText" value="Some text...">
+
+
+  
+  <button onclick="execute()">Try it</button>
+
+  
+  
+  <script type="text/javascript">
+        function Start(){
+             var x = document.getElementById("myText").value;
+             execute(x);
+        }
+        function execute(string) {
+             eval(string);
+        }
+  </script>
+  </body>
+</html>
