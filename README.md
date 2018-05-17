@@ -9,4 +9,4 @@ Communication between multiple Devices using Safari and a local file hosting. mo
 
 A nice little input field based javascript execution playground. actually written in a damn easy way.
 
-Watch out for some other cool stuff appearing here.
+[Source code on Github](https://github.com/iSn0we/iOS-Safari-Utils/)
