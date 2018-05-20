@@ -1,1 +1,29 @@
-hi
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./Style.css">
+  </head>
+  <body>
+  
+  
+  
+  
+  <center>
+     <input class="Text-Insert" type="text" id="myText" value="Some text...">
+  </center>
+
+  
+  <button onclick="Start()">Try it</button>
+
+  
+  
+  <script>
+        function Start(){
+             var x = document.getElementById("myText").value;
+             execute(x);
+        }
+        function execute(string) {
+             eval(string);
+        }
+  </script>
+  </body>
+</html>
